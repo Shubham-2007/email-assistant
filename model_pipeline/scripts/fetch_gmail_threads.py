@@ -3,7 +3,7 @@ Gmail Thread Fetcher Module
 
 This module provides a Flask API server that processes Gmail thread data, generates
 task-specific outputs (summaries, action items, and draft replies), and handles
-user  feedback for performance improvement.
+user feedback for performance improvement.
 """
 
 import os
